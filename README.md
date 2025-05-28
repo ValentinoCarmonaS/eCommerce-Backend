@@ -254,4 +254,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For issues or questions, please contact [vcarmona@gmail.com](vcarmona@gmail.com).
+For issues or questions, please contact [vcarmona@gmail.com](mailto:vcarmona@gmail.com).
